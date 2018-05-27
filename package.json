@@ -1,0 +1,14 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "Bot simple",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Fernando Contreras Guerra",
+  "license": "ISC",
+  "dependencies": {
+    "bootbot": "^1.0.14"
+  }
+}
